@@ -27,9 +27,9 @@
 
 # Introdução
 
-```diff
-+ Tema do projeto e lista de Stakeholders
-```
+O projeto **UneTask** consiste no desenvolvimento de uma aplicação mobile multiplataforma (Web, iOS e Android) voltada para o ambiente escolar e acadêmico. A solução tem como proposta centralizar o gerenciamento de tarefas, atividades e prazos avaliativos em uma única plataforma, proporcionando aos estudantes do ensino básico ao superior uma ferramenta intuitiva e eficiente para organizar sua rotina de estudos.
+
+O UneTask integra funcionalidades de cadastro e categorização de tarefas por matéria, um dashboard com gráficos de acompanhamento de status e um quadro interativo baseado em metodologias ágeis (Scrum/Kanban), permitindo que o aluno visualize, organize e controle todas as suas demandas acadêmicas de forma visual e dinâmica.
 
 ## Problema
 
@@ -64,7 +64,8 @@ Para avaliar o êxito do projeto UneTask e confirmar se os objetivos estabelecid
 
 # Partes Interessadas
 
-> [📊 Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+> ![Ícone](https://img.icons8.com/?size=15&id=2WXhtObwrKRz&format=png&color=51946e)
+[Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
@@ -86,20 +87,10 @@ Para avaliar o êxito do projeto UneTask e confirmar se os objetivos estabelecid
 | **OTAVIO MANIEZZO** | Apoiador | Alta | Média |
 | **RYLLER BRITO** | Apoiador | Média | Média |
 
-```diff
-+ Tarefa 01
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 02
-+ Termo de Abertura do Projeto
-```
-
 # Termo de Abertura do Projeto
 
-> [📑 Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> ![Ícone](https://img.icons8.com/?size=15&id=mUaiYELHrRew&format=png&color=2d6188)
+[Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
 
@@ -142,7 +133,8 @@ Para avaliar o êxito do projeto UneTask e confirmar se os objetivos estabelecid
 ## Declaração de Escopo
 
 > Referência:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+![Ícone](https://img.icons8.com/?size=15&id=mUaiYELHrRew&format=png&color=2d6188)
+[Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 ### Requisitos Funcionais
 
@@ -229,17 +221,6 @@ A tabela a seguir identifica os marcos do projeto e os entregáveis previstos.
 |M-6  | Entrega do Sprint 4 - Testes Integrados e Garantia de Qualidade (QA)             | 07/09/2026    |
 |M-7  | Publicação nas lojas Google Play Store e Apple App Store                          | 10/09/2026    |
 
-```diff
-+ Tarefa 02
-+ Fim da seção a ser atualizada.
-```
-
------
-```diff
-+ Tarefa 03:
-+ Metodologia do Projeto
-```
-
 # Metodologia
 
 O projeto UneTask adota a metodologia ágil **Scrum** como framework de gestão e desenvolvimento. O Scrum foi escolhido por sua flexibilidade, capacidade de adaptação a mudanças de requisitos e por promover entregas incrementais e iterativas, permitindo validação contínua do produto com as partes interessadas.
@@ -289,9 +270,3 @@ O projeto UneTask adota a metodologia ágil **Scrum** como framework de gestão 
 | Matriz RACI                 | Google Sheets        | PENDENTE             | Definição de responsabilidades por atividade entre os membros da equipe              |            |
 | Controle de Versão          | Git                  | Github                                 | Versionamento local do código antes do push para o repositório remoto                |
 
-```diff
-+ Tarefa 03:
-+ Fim da seção a ser atualizada.
-```
-
-----

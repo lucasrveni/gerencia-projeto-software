@@ -8,15 +8,25 @@ O objetivo principal do projeto é desenvolver uma aplicação mobile que integr
 
 ## Alunos integrantes da equipe
 
-* [GUILLERMO GILIOLI DE P. COELHO](#alunos-integrantes-da-equipe)
-* [KAIKY MARÇAL FERREIRA](#alunos-integrantes-da-equipe)
-* [LUCAS DA ROSA)](#alunos-integrantes-da-equipe)
-* [OTAVIO MANIEZZO MILAN](#alunos-integrantes-da-equipe)
-* [RYLLER BRITO PEREIRA](#alunos-integrantes-da-equipe)
+* ![Ícone](https://img.icons8.com/?size=15&id=ARy6tFUfwclb&format=png&color=ffffff)
+[GUILLERMO GILIOLI DE P. COELHO](https://github.com/GuillermoGilioli)
+
+* ![Ícone](https://img.icons8.com/?size=15&id=ARy6tFUfwclb&format=png&color=ffffff)
+[KAIKY MARÇAL FERREIRA](https://github.com/KaikyMarcal)
+
+* ![Ícone](https://img.icons8.com/?size=15&id=ARy6tFUfwclb&format=png&color=ffffff)
+[LUCAS DA ROSA](https://github.com/lucasrveni)
+
+* ![Ícone](https://img.icons8.com/?size=15&id=ARy6tFUfwclb&format=png&color=ffffff)
+[OTAVIO MANIEZZO MILAN](https://github.com/Otaviomm)
+
+* ![Ícone](https://img.icons8.com/?size=15&id=ARy6tFUfwclb&format=png&color=ffffff)
+[RYLLER BRITO PEREIRA](https://github.com/Ryller99)
 
 ## Professor responsável
 
-* [JANECLER FOPPA](#professor-responsável)
+* ![Ícone](https://img.icons8.com/?size=15&id=2800&format=png&color=ffffff)
+[JANECLER FOPPA](https://sigaa.unemat.br/sigaa/public/docente/portal.jsf?siape=207877003)
 
 ## Gerenciamento do Projeto
 
@@ -30,10 +40,3 @@ Fases do Gerenciamento do Projeto:
 3. [Execução](docs/03-execucao)
 4. [Monitoramento](docs/04-monitoramento)
 5. [Encerramento](docs/05-encerramento)
-
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
