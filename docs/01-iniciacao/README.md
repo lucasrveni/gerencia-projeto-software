@@ -1,12 +1,5 @@
 # Iniciação
 
-> A fase de iniciação, em gerência de projetos, é o estágio que estabelece as bases para o sucesso do empreendimento. 
-> Durante essa etapa, os objetivos definidos, identificando-se suas metas, escopo, partes interessadas (*stakeholders*) e restrições. 
-> É o momento em que a viabilidade do projeto é avaliada, analisando-se recursos necessários, riscos potenciais e benefícios esperados.
-> Nesta etapa é elaborado o Termo de Abertura do Projeto (TAP).
-> Essa fase serve como um alicerce estratégico, proporcionando uma compreensão abrangente do que o projeto busca alcançar e delineando as diretrizes que orientarão as etapas subsequentes. 
-> O sucesso na fase de iniciação contribui significativamente para a eficácia do gerenciamento de projetos como um todo.
-
 # Estrutura do Documento
 
 - [Fase de Iniciação](#iniciação)
@@ -54,7 +47,6 @@ Desenvolver uma aplicação mobile direcionada ao ambiente escolar e acadêmico 
 * Construir um quadro interativo baseado em metodologias ágeis (Scrum/Kanban) para a manipulação dinâmica e o controle efetivo do cumprimento de prazos avaliativos.
 * Centralizar a rotina de estudos em uma plataforma única e acessível, reduzindo a dispersão de anotações e a fricção no planejamento diário do aluno.
 
-
 ## Justificativa
 
 O desenvolvimento do UneTask justifica-se pela urgente necessidade de preencher uma lacuna deixada pelas ferramentas genéricas de produtividade, que falham por não atenderem às especificidades e à intensa dinâmica do ambiente escolar e acadêmico. Existe uma clara demanda por uma solução acessível e direcionada que compreenda as dificuldades reais dos estudantes, desde a educação básica até o ensino superior, mitigando os gargalos causados pela sobrecarga de atividades, dispersão de informações e perda de prazos.
@@ -72,61 +64,32 @@ Para avaliar o êxito do projeto UneTask e confirmar se os objetivos estabelecid
 
 # Partes Interessadas
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+> [📊 Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
-| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
-|-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
+| Nome | Posição / Cargo | Papel no Projeto |
+| --- | --- | --- |
+| **GUILLERMO GILIOLI DE P. COELHO** | Gerente | Coordena o planejamento, a execução e a entrega |
+| **KAIKY MARÇAL FERREIRA** | Desenvolvedor e QA | Cria o código funcional do sistema, garante que esse produto atenda aos padrões de qualidade e esteja livre de erros. |
+| **LUCAS DA ROSA** | Designer UI/UX | Garantir que o produto seja funcional, intuitivo, acessível e esteticamente agradável para o usuário final |
+| **OTAVIO MANIEZZO MILAN** | Desenvolvedor e QA | Cria o código funcional do sistema, garante que esse produto atenda aos padrões de qualidade e esteja livre de erros. |
+| **RYLLER BRITO PEREIRA** | Product Owner e Analista | Define a visão estratégica e o valor do produto, foca no detalhamento técnico e na especificação funcional das necessidades. |
 
 ## Avaliação das Partes Interessadas
 
-| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
-|-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
+| Nome | Apoio | Influência | Poder |
+| --- | --- | --- | --- |
+| **GUILLERMO GILIOLI** | Apoiador | Alta | Alta |
+| **KAIKY MARÇAL** | Apoiador | Alta | Média |
+| **LUCAS DA ROSA** | Apoiador | Baixa | Baixa |
+| **OTAVIO MANIEZZO** | Apoiador | Alta | Média |
+| **RYLLER BRITO** | Apoiador | Média | Média |
 
 ```diff
 + Tarefa 01
 + Fim da seção a ser atualizada.
 ```
-
 
 -----
 ```diff
@@ -136,158 +99,135 @@ Para avaliar o êxito do projeto UneTask e confirmar se os objetivos estabelecid
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+> [📑 Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
-
+| Item de custo | Qtd. horas | Valor / hora | Valor total |
+| --- | --- | --- | --- |
+| **Recursos Humanos** |  |  |  |
+| Guillermo Gilioli (Gerente) | 120h | R$ 80,00 | R$ 9.600,00 |
+| Kaiky Marçal (Dev/QA) | 200h | R$ 60,00 | R$ 12.000,00 |
+| Lucas da Rosa (Designer) | 120h | R$ 60,00 | R$ 7.200,00 |
+| Otavio Milani (Dev/QA) | 200h | R$ 60,00 | R$ 12.000,00 |
+| Ryller Brito (PO/Analista) | 160h | R$ 70,00 | R$ 11.200,00 |
+| **Hardware** |  |  |  |
+| Equipamentos de desenvolvimento (Notebooks/Workstations) | - | - | R$ 0,00 |
+| **Rede e serviços de hospedagem (Firebase/AWS)** | - | - | R$ 300,00 |
+| **Software de terceiros (Contas Google/Apple)** | - | - | R$ 750,00 |
+| **Serviços e treinamento** | - | - | R$ 0,00 |
+| **Total Geral** | - | - | **R$ 53.050,00** |
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+| Descrição | Valor |
+| --- | --- |
+| **Prazo previsto (horas)** | 800 |
+| **Data prevista de início** | 03/08/2026 |
+| **Data prevista de término** | 10/09/2026 |
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas.
+
+### Premissas
+
+- O projeto será desenvolvido como aplicativo mobile multiplataforma (Web, iOS e Android)
+- A equipe possui conhecimento técnico em desenvolvimento mobile e frameworks como Flutter ou React Native
+- Será utilizada infraestrutura em nuvem (Firebase/AWS) para backend e banco de dados
+- O público-alvo são estudantes do ensino básico ao superior
+- O produto final será publicado nas lojas Google Play Store e Apple App Store
+- Será necessária a conformidade com a LGPD para dados de estudantes
 
 ## Declaração de Escopo
 
-> Você pode utilizar como referência o seguinte documento:
+> Referência:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
+A tabela a seguir apresenta os requisitos funcionais do projeto.
 
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID    | Descrição do Requisito                                                                 | Prioridade |
+|------|----------------------------------------------------------------------------------------|------------|
+|RF-001| Permitir cadastro de tarefas com título, descrição, matéria, data de criação e prazo   | ALTA       |
+|RF-002| Permitir edição de tarefas cadastradas                                                  | ALTA       |
+|RF-003| Permitir exclusão de tarefas                                                            | ALTA       |
+|RF-004| Categorizar tarefas por matéria/disciplina                                              | ALTA       |
+|RF-005| Exibir lista de tarefas com filtros por matéria, status e prazo                         | ALTA       |
+|RF-006| Exibir dashboard com gráficos de status das atividades                                  | ALTA       |
+|RF-007| Disponibilizar quadro interativo Kanban/Scrum com colunas de status (A Fazer, Em Andamento, Concluído) | ALTA |
+|RF-008| Permitir arrastar e soltar cards entre colunas no quadro Scrum                          | ALTA       |
+|RF-009| Autenticar usuário via OAuth (Gmail e Apple ID/iCloud)                                  | ALTA       |
+|RF-010| Autenticar usuário via e-mail e senha                                                   | ALTA       |
+|RF-011| Exportar listas de tarefas para salvamento externo                                      | MÉDIA      |
+|RF-012| Visualizar número do card, status, data de criação e data de envio na listagem          | MÉDIA      |
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|ID     | Descrição do Requisito                                                                 | Prioridade |
+|-------|----------------------------------------------------------------------------------------|------------|
+|RNF-001| Suporte a dispositivos móveis iOS e Android                                            | ALTA       |
+|RNF-002| Interface responsiva para diferentes tamanhos de tela                                   | ALTA       |
+|RNF-003| Processar requisições do usuário em no máximo 3 segundos                               | MÉDIA      |
+|RNF-004| Sincronização em tempo real entre dispositivos                                         | ALTA       |
+|RNF-005| Conformidade com a LGPD para dados pessoais de estudantes                              | ALTA       |
+|RNF-006| Interface intuitiva e acessível para estudantes do ensino básico ao superior            | ALTA       |
+|RNF-007| Disponibilidade mínima de 99,9% do serviço em nuvem                                   | MÉDIA      | 
 
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
+A tabela a seguir apresenta as restrições do projeto.
 
-A tabela a seguir apresenta as restrições do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|ID    | Descrição do Requisito                                                                 | Prioridade |
+|------|----------------------------------------------------------------------------------------|------------|
+|RE-001| O projeto deve ser concluído até 10/09/2026                                            | ALTA       |
+|RE-002| Orçamento total limitado a R$ 53.050,00                                                | ALTA       |
+|RE-003| Equipe composta por 5 membros com papéis específicos                                   | MÉDIA      |
+|RE-004| Uso obrigatório de ferramentas de versionamento (Git/GitHub)                           | MÉDIA      |
+|RE-005| Publicação nas lojas Google Play Store e Apple App Store                               | ALTA       |
+|RE-006| Conformidade com diretrizes de privacidade da Apple e Google                           | MÉDIA      |
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+A tabela a seguir apresenta as atividades que não serão executadas no projeto.
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
-
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|ID    | Descrição do Contra-Escopo                                                          |
+|------|-------------------------------------------------------------------------------------|
+|CE-001| Integração com Google Classroom ou outros sistemas de gestão escolar                 |
+|CE-002| Funcionalidade de chat interno entre estudantes e professores                        |
+|CE-003| Treinamento de modelos de Inteligência Artificial para recomendações                |
+|CE-004| Suporte a múltiplos idiomas (internacionalização)                                   |
+|CE-005| Desenvolvimento de versão para desktop                                      |
+|CE-006| Integração com calendarização acadêmica de instituições específicas                  |
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
+A tabela a seguir apresenta as condições para que o projeto seja iniciado.
 
-A tabela a seguir, apresente as condições para que o projeto seja iniciado.
-
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|ID    | Descrição de Condições para Início do Projeto                                       |
+|------|-------------------------------------------------------------------------------------|
+|CI-001| Aprovação do Termo de Abertura do Projeto pelo responsável              |
+|CI-002| Confirmação da disponibilidade de todos os membros da equipe                        |
+|CI-003| Definição da infraestrutura de desenvolvimento (repositório GitHub, ferramentas)    |
+|CI-004| Criação das contas de desenvolvedor nas lojas Google Play e Apple App Store         |
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
+A tabela a seguir identifica os marcos do projeto e os entregáveis previstos.
 
-A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
-
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|ID   | Marco do Projeto                                                                 | Data Prevista |
+|-----|----------------------------------------------------------------------------------|---------------|
+|M-1  | Aprovação do Termo de Abertura do Projeto                                        | 03/08/2026    |
+|M-2  | Conclusão da Prototipação UI/UX das 3 Telas                                      | 10/08/2026    |
+|M-3  | Entrega do Sprint 1 - Módulo de Autenticação                                     | 17/08/2026    |
+|M-4  | Entrega do Sprint 2 - Módulo de Tarefas & Matérias                               | 24/08/2026    |
+|M-5  | Entrega do Sprint 3 - Módulo Interativo Scrum/Kanban                             | 31/08/2026    |
+|M-6  | Entrega do Sprint 4 - Testes Integrados e Garantia de Qualidade (QA)             | 07/09/2026    |
+|M-7  | Publicação nas lojas Google Play Store e Apple App Store                          | 10/09/2026    |
 
 ```diff
 + Tarefa 02
@@ -302,46 +242,52 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto UneTask adota a metodologia ágil **Scrum** como framework de gestão e desenvolvimento. O Scrum foi escolhido por sua flexibilidade, capacidade de adaptação a mudanças de requisitos e por promover entregas incrementais e iterativas, permitindo validação contínua do produto com as partes interessadas.
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+## Estrutura do Scrum
+
+### Papéis
+
+- **Product Owner (PO):** Responsável por definir a visão do produto, priorizar o Product Backlog e garantir que as entregas atendam às expectativas dos stakeholders.
+- **Scrum Master:** Facilita os processos do Scrum, remove impedimentos e garante que a equipe siga as práticas ágeis.
+- **Equipe de Desenvolvimento:** multidisciplinar, composta por desenvolvedores mobile, desenvolvedor backend/cloud, designer UI/UX e analista de QA, responsável por entregar o incremento do produto a cada Sprint.
+
+### Eventos
+
+- **Sprint:** Ciclos de desenvolvimento com duração de **1 semana**, totalizando 4 sprints na fase de execução.
+- **Sprint Planning:** Reunião no início de cada sprint para planejar as tarefas a serem executadas.
+- **Daily Scrum:** Reunião diária de 15 minutos para sincronização da equipe e identificação de impedimentos.
+- **Sprint Review:** Reunião ao final de cada sprint para demonstrar o incremento entregue aos stakeholders.
+- **Sprint Retrospective:** Reunião de retrospectiva para identificar melhorias nos processos da equipe.
+
+### Artefatos
+
+- **Product Backlog:** Lista priorizada de todas as funcionalidades e requisitos do produto.
+- **Sprint Backlog:** Conjunto de tarefas selecionadas para execução na sprint atual.
+- **Incremento:** Produto funcional entregue ao final de cada sprint.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+| Nome                    | Papel no Projeto                  | Principais Responsabilidades                                                                 |
+|-------------------------|-----------------------------------|---------------------------------------------------------------------------------------------|
+| **GUILLERMO GILIOLI**   | Gerente / Scrum Master            | Coordena o planejamento, execução e entrega; facilita os eventos Scrum e remove impedimentos |
+| **RYLLER BRITO**        | Product Owner / Analista          | Define a visão estratégica do produto, prioriza o backlog e especifica requisitos técnicos   |
+| **KAIKY MARÇAL**        | Desenvolvedor Mobile / QA         | Desenvolve o código mobile, implementa funcionalidades e garante a qualidade do produto      |
+| **OTAVIO MANIEZZO**     | Desenvolvedor Mobile / QA         | Desenvolve o código mobile, implementa funcionalidades e garante a qualidade do produto      |
+| **LUCAS DA ROSA**       | Designer UI/UX                    | Projeta a interface do usuário, garante usabilidade, acessibilidade e experiência visual      |
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
-
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
-|-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Ambiente                    | Plataforma           | Link de Acesso                      | Justificativa                                                                       |
+|-----------------------------|----------------------|-------------------------------------|-------------------------------------------------------------------------------------|
+| Quadro Kanban / Sprint Board| GitHub Projects      | https://github.com/users/lucasrveni/projects/5/views/1?system_template=kanban                  | Centralização e organização do projeto no próprio repositório com visualização ágil  |
+| Repositório de código       | GitHub               | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/code                  | Controle de versão, colaboração e histórico de alterações no código-fonte            |
+| Protótipo Interativo        | Figma                | https://www.figma.com/design/wSAvNL98JkSHNnCq0Lweqw/UneTask?node-id=0-1&t=Nlw634oMXg86fAxf-1                   | Design de interface (UI/UX), criação de protótipos navegáveis e handoff para devs   |
+| Documentos Textuais         | Google Docs          | PENDENTE             | Elaboração e colaboração em documentos do projeto (atas, especificações)            |
+| Planilhas e Gráficos        | Google Sheets        | PENDENTE             | Gestão de cronograma, estimativas, matriz RACI e análise de custos                   |                 |
+| Cronograma do Projeto       | Google Sheets        | PENDENTE             | Acompanhamento visual do cronograma e marcos do projeto                              |
+| Matriz RACI                 | Google Sheets        | PENDENTE             | Definição de responsabilidades por atividade entre os membros da equipe              |            |
+| Controle de Versão          | Git                  | Github                                 | Versionamento local do código antes do push para o repositório remoto                |
 
 ```diff
 + Tarefa 03:
