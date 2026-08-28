@@ -27,7 +27,7 @@ jobs:
       - name: Preparar pasta de publicação
         run: |
           mkdir public
-          cp docs/02-planejamento/artefatos/UneTask.html public/index.html
+          cp docs/03-execucao/UneTask.html public/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
