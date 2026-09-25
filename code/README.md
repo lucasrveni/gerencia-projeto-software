@@ -1,7 +1,6 @@
 # Código do Projeto
 
-> Mantenha neste diretório todo o código fonte do projeto. 
->
-> Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
->
-> O código não é um artefato obrigatório neste documento.
+Este diretório está reservado ao código-fonte do UneTask e permanece vazio por decisão de escopo da disciplina: a implementação não foi codificada, e a construção do sistema foi simulada por meio de um protótipo navegável e da modelagem da solução.
+
+- [Protótipo navegável publicado](https://lucasrveni.github.io/gerencia-projeto-software/)
+- [Arquitetura, diagrama de classes e modelo de dados](/docs/03-execucao)

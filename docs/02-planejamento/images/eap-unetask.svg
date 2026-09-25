@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1452" height="592" viewBox="0 0 1452 592" font-family="Helvetica, Arial, sans-serif">
+<rect width="1452" height="592" fill="#ffffff"/>
+<text x="28" y="30" font-size="19" font-weight="700" fill="#101a14">Estrutura Analítica do Projeto (EAP) — UneTask</text>
+<text x="28" y="48" font-size="12.5" fill="#5a6b60">Decomposição em 5 entregas principais e 21 pacotes de trabalho · 800 h · R$ 53.050,00</text>
+<rect x="28" y="64" width="1396" height="56" rx="12" fill="#14532d" stroke="#14532d" stroke-width="1.4"/>
+<text x="726.0" y="98" font-size="16.5" font-weight="700" fill="#ffffff" text-anchor="middle">1. UneTask — Aplicativo de Gestão de Tarefas Acadêmicas</text>
+<path d="M726.0 120 V143.0" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<path d="M154.0 143.0 H1298.0" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<path d="M154.0 143.0 V166" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<rect x="28" y="166" width="252" height="54" rx="10" fill="#1f7a4d" stroke="#1f7a4d" stroke-width="1.4"/>
+<text x="42" y="188" font-size="12" font-weight="700" fill="#bfe6cf" text-anchor="start">1.1</text>
+<text x="42" y="206" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Gerenciamento do Projeto</text>
+<text x="266" y="188" font-size="11.5" font-weight="700" fill="#bfe6cf" text-anchor="end">180 h</text>
+<rect x="28" y="254" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="42" y="282" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.1.1</text>
+<text x="80" y="282" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Iniciação</text>
+<text x="266" y="282" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">40 h</text>
+<path d="M14 277.0 H28" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="28" y="316" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="42" y="344" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.1.2</text>
+<text x="80" y="344" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Planejamento</text>
+<text x="266" y="344" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">60 h</text>
+<path d="M14 339.0 H28" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="28" y="378" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="42" y="406" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.1.3</text>
+<text x="80" y="406" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Monitoramento e Controle</text>
+<text x="266" y="406" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">50 h</text>
+<path d="M14 401.0 H28" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="28" y="440" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="42" y="468" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.1.4</text>
+<text x="80" y="468" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Encerramento</text>
+<text x="266" y="468" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">30 h</text>
+<path d="M14 463.0 H28" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<path d="M154.0 220 V236 H14 V463.0" stroke="#9fb5a8" stroke-width="1.5" fill="none"/>
+<path d="M440.0 143.0 V166" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<rect x="314" y="166" width="252" height="54" rx="10" fill="#1f7a4d" stroke="#1f7a4d" stroke-width="1.4"/>
+<text x="328" y="188" font-size="12" font-weight="700" fill="#bfe6cf" text-anchor="start">1.2</text>
+<text x="328" y="206" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Design e Experiência (UI/UX)</text>
+<text x="552" y="188" font-size="11.5" font-weight="700" fill="#bfe6cf" text-anchor="end">120 h</text>
+<rect x="314" y="254" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="328" y="282" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.2.1</text>
+<text x="366" y="282" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Pesquisa com Usuários</text>
+<text x="552" y="282" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">25 h</text>
+<path d="M300 277.0 H314" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="314" y="316" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="328" y="336" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.2.2</text>
+<text x="366" y="336" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Arquitetura de Informação</text>
+<text x="366" y="352" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">e Wireframes</text>
+<text x="552" y="336" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">30 h</text>
+<path d="M300 339.0 H314" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="314" y="378" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="328" y="406" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.2.3</text>
+<text x="366" y="406" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Design System</text>
+<text x="552" y="406" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">25 h</text>
+<path d="M300 401.0 H314" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="314" y="440" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="328" y="468" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.2.4</text>
+<text x="366" y="468" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Protótipo Navegável</text>
+<text x="552" y="468" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">40 h</text>
+<path d="M300 463.0 H314" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<path d="M440.0 220 V236 H300 V463.0" stroke="#9fb5a8" stroke-width="1.5" fill="none"/>
+<path d="M726.0 143.0 V166" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<rect x="600" y="166" width="252" height="54" rx="10" fill="#1f7a4d" stroke="#1f7a4d" stroke-width="1.4"/>
+<text x="614" y="188" font-size="12" font-weight="700" fill="#bfe6cf" text-anchor="start">1.3</text>
+<text x="614" y="206" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Desenvolvimento</text>
+<text x="838" y="188" font-size="11.5" font-weight="700" fill="#bfe6cf" text-anchor="end">350 h</text>
+<rect x="600" y="254" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="614" y="282" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.3.1</text>
+<text x="652" y="282" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Infraestrutura e Configuração</text>
+<text x="838" y="282" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">40 h</text>
+<path d="M586 277.0 H600" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="600" y="316" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="614" y="344" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.3.2</text>
+<text x="652" y="344" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Módulo de Autenticação</text>
+<text x="838" y="344" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">70 h</text>
+<path d="M586 339.0 H600" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="600" y="378" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="614" y="406" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.3.3</text>
+<text x="652" y="406" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Módulo de Tarefas e Matérias</text>
+<text x="838" y="406" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">90 h</text>
+<path d="M586 401.0 H600" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="600" y="440" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="614" y="468" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.3.4</text>
+<text x="652" y="468" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Dashboard e Métricas</text>
+<text x="838" y="468" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">60 h</text>
+<path d="M586 463.0 H600" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="600" y="502" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="614" y="530" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.3.5</text>
+<text x="652" y="530" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Quadro Kanban/Scrum</text>
+<text x="838" y="530" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">90 h</text>
+<path d="M586 525.0 H600" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<path d="M726.0 220 V236 H586 V525.0" stroke="#9fb5a8" stroke-width="1.5" fill="none"/>
+<path d="M1012.0 143.0 V166" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<rect x="886" y="166" width="252" height="54" rx="10" fill="#1f7a4d" stroke="#1f7a4d" stroke-width="1.4"/>
+<text x="900" y="188" font-size="12" font-weight="700" fill="#bfe6cf" text-anchor="start">1.4</text>
+<text x="900" y="206" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Qualidade e Testes</text>
+<text x="1124" y="188" font-size="11.5" font-weight="700" fill="#bfe6cf" text-anchor="end">110 h</text>
+<rect x="886" y="254" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="900" y="282" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.4.1</text>
+<text x="938" y="282" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Plano e Casos de Teste</text>
+<text x="1124" y="282" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">30 h</text>
+<path d="M872 277.0 H886" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="886" y="316" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="900" y="344" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.4.2</text>
+<text x="938" y="344" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Testes Automatizados</text>
+<text x="1124" y="344" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">40 h</text>
+<path d="M872 339.0 H886" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="886" y="378" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="900" y="406" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.4.3</text>
+<text x="938" y="406" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Testes de Usabilidade</text>
+<text x="1124" y="406" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">20 h</text>
+<path d="M872 401.0 H886" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="886" y="440" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="900" y="468" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.4.4</text>
+<text x="938" y="468" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Correção de Defeitos</text>
+<text x="1124" y="468" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">20 h</text>
+<path d="M872 463.0 H886" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<path d="M1012.0 220 V236 H872 V463.0" stroke="#9fb5a8" stroke-width="1.5" fill="none"/>
+<path d="M1298.0 143.0 V166" stroke="#9fb5a8" stroke-width="1.6" fill="none"/>
+<rect x="1172" y="166" width="252" height="54" rx="10" fill="#1f7a4d" stroke="#1f7a4d" stroke-width="1.4"/>
+<text x="1186" y="188" font-size="12" font-weight="700" fill="#bfe6cf" text-anchor="start">1.5</text>
+<text x="1186" y="206" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Implantação</text>
+<text x="1410" y="188" font-size="11.5" font-weight="700" fill="#bfe6cf" text-anchor="end">40 h</text>
+<rect x="1172" y="254" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="1186" y="282" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.5.1</text>
+<text x="1224" y="282" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Build e Assinatura</text>
+<text x="1410" y="282" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">10 h</text>
+<path d="M1158 277.0 H1172" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="1172" y="316" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="1186" y="344" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.5.2</text>
+<text x="1224" y="344" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Contas e Fichas nas Lojas</text>
+<text x="1410" y="344" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">10 h</text>
+<path d="M1158 339.0 H1172" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="1172" y="378" width="252" height="46" rx="9" fill="#e7f3ec" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="1186" y="406" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.5.3</text>
+<text x="1224" y="406" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Publicação nas Lojas</text>
+<text x="1410" y="406" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">10 h</text>
+<path d="M1158 401.0 H1172" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<rect x="1172" y="440" width="252" height="46" rx="9" fill="#ffffff" stroke="#9fb5a8" stroke-width="1.4"/>
+<text x="1186" y="468" font-size="11" font-weight="700" fill="#1f7a4d" text-anchor="start">1.5.4</text>
+<text x="1224" y="468" font-size="12.2" font-weight="600" fill="#101a14" text-anchor="start">Documentação do Usuário</text>
+<text x="1410" y="468" font-size="11" font-weight="700" fill="#5a6b60" text-anchor="end">10 h</text>
+<path d="M1158 463.0 H1172" stroke="#9fb5a8" stroke-width="1.2" fill="none"/>
+<path d="M1298.0 220 V236 H1158 V463.0" stroke="#9fb5a8" stroke-width="1.5" fill="none"/>
+</svg>

@@ -264,9 +264,9 @@ O projeto UneTask adota a metodologia ágil **Scrum** como framework de gestão 
 | Quadro Kanban / Sprint Board| GitHub Projects      | https://github.com/users/lucasrveni/projects/5/views/1?system_template=kanban                  | Centralização e organização do projeto no próprio repositório com visualização ágil  |
 | Repositório de código       | GitHub               | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/code                  | Controle de versão, colaboração e histórico de alterações no código-fonte            |
 | Protótipo Interativo        | Figma                | https://www.figma.com/design/wSAvNL98JkSHNnCq0Lweqw/UneTask?node-id=0-1&t=Nlw634oMXg86fAxf-1                   | Design de interface (UI/UX), criação de protótipos navegáveis e handoff para devs   |
-| Documentos Textuais         | Google Docs          | PENDENTE             | Elaboração e colaboração em documentos do projeto (atas, especificações)            |
-| Planilhas e Gráficos        | Google Sheets        | PENDENTE             | Gestão de cronograma, estimativas, matriz RACI e análise de custos                   |                 |
-| Cronograma do Projeto       | Google Sheets        | PENDENTE             | Acompanhamento visual do cronograma e marcos do projeto                              |
-| Matriz RACI                 | Google Sheets        | PENDENTE             | Definição de responsabilidades por atividade entre os membros da equipe              |            |
+| Documentos Textuais         | Markdown no GitHub   | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/docs                  | Elaboração e colaboração em documentos do projeto (atas, especificações), versionados junto ao código |
+| Planilhas e Gráficos        | Tabelas em Markdown no GitHub | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/docs/02-planejamento#orçamento-do-projeto                  | Estimativas, orçamento e plano de riscos mantidos como tabelas versionadas                   |
+| Cronograma do Projeto       | Markdown + Gantt (Mermaid) | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/docs/02-planejamento#cronograma-do-projeto                  | Acompanhamento visual do cronograma e marcos do projeto                              |
+| Matriz RACI                 | Markdown no GitHub   | https://github.com/lucasrveni/gerencia-projeto-software/tree/main/docs/02-planejamento#matriz-de-responsabilidades                  | Definição de responsabilidades por atividade entre os membros da equipe              |
 | Controle de Versão          | Git                  | Github                                 | Versionamento local do código antes do push para o repositório remoto                |
 
